@@ -1,8 +1,6 @@
 # AI-Powered-Disease-Prediction-Using-Streamlit
 AI-Powered Disease Prediction Using Streamlit" is  that harnesses the power of machine learning algorithms to predict potential diseases like Diabetes, parkinsons, heart issues based on users' health data.
 
-# AI-Powered Disease Prediction Using Streamlit
-
 This project is an AI-powered disease prediction application built using **Streamlit** and various data analytics techniques such as **NumPy** and machine learning. The application predicts three major diseases based on user-input health data: **Diabetes**, **Parkinson's Disease**, and **Heart Disease**.
 
 ## Features:
